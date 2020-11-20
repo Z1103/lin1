@@ -63,7 +63,7 @@
 
 你好`print("hello")`
 
-```num = int(input())if 90 <= num <= 100:    print("优")elif 75 <= num < 90:    print("良")elif 60 <= num < 75:    print("中")else:    print("差")```
+```num = int(input())if 90 <= num <= 100:    print("优")elif 75 <= num < 90:    print("良")elif 60 <= num < 75:    print("中")else:    print("差")
 
 <u>6班 张琳琳 2020012343</u>
 
